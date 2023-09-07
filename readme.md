@@ -1,4 +1,4 @@
-# Digital Clock [Link](https://shantanumurdio.github.io/Digital_Clock/)
+# Digital Clock [Link](https://github.com/shantanumurdio/Digital_Clock)
 
 A simple digital clock web application that displays the current time in hours, minutes, seconds, and AM/PM format.
 
